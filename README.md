@@ -1,1 +1,1 @@
-# autoReply sgamer论坛的自动回复
+# sgamer论坛的自动回复
